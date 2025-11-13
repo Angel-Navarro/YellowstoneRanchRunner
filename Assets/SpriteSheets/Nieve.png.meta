@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 1bb96d9d9d34af045985cef382515fa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4427008057086412722
+    second: Nieve_0
+  - first:
+      213: -8759381336176252754
+    second: Nieve_1
+  - first:
+      213: -9043766085336867914
+    second: Nieve_2
+  - first:
+      213: -710976573569092677
+    second: Nieve_3
+  - first:
+      213: 302784379601255469
+    second: Nieve_4
+  - first:
+      213: -1428789142397794422
+    second: Nieve_5
+  - first:
+      213: -6447530246577240486
+    second: Nieve_6
+  - first:
+      213: 7648966199356775664
+    second: Nieve_7
+  - first:
+      213: -4323743433514504818
+    second: Nieve_8
+  - first:
+      213: 6275992188951149152
+    second: Nieve_9
+  - first:
+      213: 4030483705622467745
+    second: Nieve_10
+  - first:
+      213: 8094605206331770026
+    second: Nieve_11
+  - first:
+      213: -7646719702963550812
+    second: Nieve_12
+  - first:
+      213: -1298262420069005636
+    second: Nieve_13
+  - first:
+      213: 3506725861673852001
+    second: Nieve_14
+  - first:
+      213: -8675236627610530458
+    second: Nieve_15
+  - first:
+      213: 8667577111598359221
+    second: Nieve_16
+  - first:
+      213: -8668814113235855736
+    second: Nieve_17
+  - first:
+      213: 5626294043333525577
+    second: Nieve_18
+  - first:
+      213: 4855627316270025859
+    second: Nieve_19
+  - first:
+      213: -8237363533800072381
+    second: Nieve_20
+  - first:
+      213: -8753983924806495307
+    second: Nieve_21
+  - first:
+      213: -6625620523230197269
+    second: Nieve_22
+  - first:
+      213: 513142435147121017
+    second: Nieve_23
+  - first:
+      213: -6099826493944118927
+    second: Nieve_24
+  - first:
+      213: -3027577195652381179
+    second: Nieve_25
+  - first:
+      213: -8697102279014216520
+    second: Nieve_26
+  - first:
+      213: -7093650647442400899
+    second: Nieve_27
+  - first:
+      213: -9071808525727902019
+    second: Nieve_28
+  - first:
+      213: -3698964873562746610
+    second: Nieve_29
+  - first:
+      213: -6823107012470658058
+    second: Nieve_30
+  - first:
+      213: -2749165050622493085
+    second: Nieve_31
+  - first:
+      213: -5055618371015789006
+    second: Nieve_32
+  - first:
+      213: 4431117988961409049
+    second: Nieve_33
+  - first:
+      213: -8947133317687519098
+    second: Nieve_34
+  - first:
+      213: -8481505598610017122
+    second: Nieve_35
+  - first:
+      213: 1540756242725063393
+    second: Nieve_36
+  - first:
+      213: 6896761197824933608
+    second: Nieve_37
+  - first:
+      213: -7392550045637008299
+    second: Nieve_38
+  - first:
+      213: -7626797461149306677
+    second: Nieve_39
+  - first:
+      213: -8988941658272630635
+    second: Nieve_40
+  - first:
+      213: -5036722222619038118
+    second: Nieve_41
+  - first:
+      213: 4978053392313269599
+    second: Nieve_42
+  - first:
+      213: -5487181164161036010
+    second: Nieve_43
+  - first:
+      213: -8210014792067480019
+    second: Nieve_44
+  - first:
+      213: 4190706554488408681
+    second: Nieve_45
+  - first:
+      213: 4270813108045852364
+    second: Nieve_46
+  - first:
+      213: -4884439045622755276
+    second: Nieve_47
+  - first:
+      213: 6127429445045110695
+    second: Nieve_48
+  - first:
+      213: -8691666039936580119
+    second: Nieve_49
+  - first:
+      213: -8770555022396659582
+    second: Nieve_50
+  - first:
+      213: 3410009836911124412
+    second: Nieve_51
+  - first:
+      213: 1801680084217532408
+    second: Nieve_52
+  - first:
+      213: -8868541704243725990
+    second: Nieve_53
+  - first:
+      213: -2543967851255692315
+    second: Nieve_54
+  - first:
+      213: -8214768691351523791
+    second: Nieve_55
+  - first:
+      213: 1338090014955675348
+    second: Nieve_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 650
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nieve_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 920
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 9}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8270d751d607680800000000000000
+      internalID: -8759381336176252754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 917
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb55cb49a61e7280800000000000000
+      internalID: -9043766085336867914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 919
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 0, z: 8, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb33ac0c29a1226f0800000000000000
+      internalID: -710976573569092677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 918
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7badf9c4b33400800000000000000
+      internalID: 302784379601255469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 918
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c17458dbeb2ce0800000000000000
+      internalID: -1428789142397794422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 919
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a564d26b665c586a0800000000000000
+      internalID: -6447530246577240486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 835
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da071614afef3c0800000000000000
+      internalID: -4323743433514504818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 838
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3f8be4adc81750800000000000000
+      internalID: 6275992188951149152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 834
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a490aa63972fe730800000000000000
+      internalID: 4030483705622467745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 837
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ce605c80d55070800000000000000
+      internalID: 8094605206331770026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a580e7b1f461e590800000000000000
+      internalID: -7646719702963550812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 833
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb64c8a1535abfde0800000000000000
+      internalID: -1298262420069005636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nieve_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542281a6e2686990800000000000000
+      internalID: -7392550045637008299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 622bb5c6aeab35e47be21b28baed66b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nieve_0: -4427008057086412722
+      Nieve_1: -8759381336176252754
+      Nieve_10: 4030483705622467745
+      Nieve_11: 8094605206331770026
+      Nieve_12: -7646719702963550812
+      Nieve_13: -1298262420069005636
+      Nieve_14: 3506725861673852001
+      Nieve_15: -8675236627610530458
+      Nieve_16: 8667577111598359221
+      Nieve_17: -8668814113235855736
+      Nieve_18: 5626294043333525577
+      Nieve_19: 4855627316270025859
+      Nieve_2: -9043766085336867914
+      Nieve_20: -8237363533800072381
+      Nieve_21: -8753983924806495307
+      Nieve_22: -6625620523230197269
+      Nieve_23: 513142435147121017
+      Nieve_24: -6099826493944118927
+      Nieve_25: -3027577195652381179
+      Nieve_26: -8697102279014216520
+      Nieve_27: -7093650647442400899
+      Nieve_28: -9071808525727902019
+      Nieve_29: -3698964873562746610
+      Nieve_3: -710976573569092677
+      Nieve_30: -6823107012470658058
+      Nieve_31: -2749165050622493085
+      Nieve_32: -5055618371015789006
+      Nieve_33: 4431117988961409049
+      Nieve_34: -8947133317687519098
+      Nieve_35: -8481505598610017122
+      Nieve_36: 1540756242725063393
+      Nieve_37: 6896761197824933608
+      Nieve_38: -7392550045637008299
+      Nieve_39: -7626797461149306677
+      Nieve_4: 302784379601255469
+      Nieve_40: -8988941658272630635
+      Nieve_41: -5036722222619038118
+      Nieve_42: 4978053392313269599
+      Nieve_43: -5487181164161036010
+      Nieve_44: -8210014792067480019
+      Nieve_45: 4190706554488408681
+      Nieve_46: 4270813108045852364
+      Nieve_47: -4884439045622755276
+      Nieve_48: 6127429445045110695
+      Nieve_49: -8691666039936580119
+      Nieve_5: -1428789142397794422
+      Nieve_50: -8770555022396659582
+      Nieve_51: 3410009836911124412
+      Nieve_52: 1801680084217532408
+      Nieve_53: -8868541704243725990
+      Nieve_54: -2543967851255692315
+      Nieve_55: -8214768691351523791
+      Nieve_56: 1338090014955675348
+      Nieve_6: -6447530246577240486
+      Nieve_7: 7648966199356775664
+      Nieve_8: -4323743433514504818
+      Nieve_9: 6275992188951149152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
